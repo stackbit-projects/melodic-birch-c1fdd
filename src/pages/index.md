@@ -29,7 +29,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - label: View Posts
-            url: /
+            url: /code
             style: link
       - title: Style Guide
         content: >-
