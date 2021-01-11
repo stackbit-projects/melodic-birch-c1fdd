@@ -4,9 +4,4 @@ subtitle: "I code in Python. I'd\_ cover coding questions from basic to advanced
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+## Hello World.
