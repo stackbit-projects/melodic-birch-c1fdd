@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Code Journal
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
