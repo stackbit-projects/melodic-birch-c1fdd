@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Pronicles
+    title: ミ★ Pronicles ★彡
     image: images/5.jpg
     content: Code Repo and other Tech-Related suff.
     actions:
