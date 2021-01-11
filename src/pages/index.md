@@ -24,9 +24,8 @@ sections:
             url: /docs
             style: link
       - title: Blogs
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          I'll cover my new findings in the blogs.
         actions:
           - label: View Posts
             url: /codes
