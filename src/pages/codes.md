@@ -6,8 +6,3 @@ template: page
 image: images/gcp_pipeline.png
 ---
 ## Hello World.
-
-*   Arrays
-
-
-
